@@ -1,4 +1,3 @@
-C:\Users\91799\Dropbox\PC\Pictures\Screenshots\Screenshot (53).png
 - 👋 Hi, I’m @waseemm21
 - 👀 I’m interested in AI & ML,DSA,TRADING
 - 🌱 I’m currently learning MACHINE LEARNING WITH PYTHON 
